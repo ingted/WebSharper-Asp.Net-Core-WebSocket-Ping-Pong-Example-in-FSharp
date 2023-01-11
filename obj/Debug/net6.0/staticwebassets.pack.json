@@ -1,0 +1,129 @@
+{
+  "Files": [
+    {
+      "Id": "G:\\coldfar_py\\sharftrade7\\Experiments\\JS\\JS003\\wwwroot\\Scripts\\WebSharper\\JS003.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\JS003.js"
+    },
+    {
+      "Id": "G:\\coldfar_py\\sharftrade7\\Experiments\\JS\\JS003\\wwwroot\\Scripts\\WebSharper\\JS003.min.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\JS003.min.js"
+    },
+    {
+      "Id": "G:\\coldfar_py\\sharftrade7\\Experiments\\JS\\JS003\\wwwroot\\Scripts\\WebSharper\\WebSharper.AspNetCore.WebSocket.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.AspNetCore.WebSocket.js"
+    },
+    {
+      "Id": "G:\\coldfar_py\\sharftrade7\\Experiments\\JS\\JS003\\wwwroot\\Scripts\\WebSharper\\WebSharper.AspNetCore.WebSocket.min.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.AspNetCore.WebSocket.min.js"
+    },
+    {
+      "Id": "G:\\coldfar_py\\sharftrade7\\Experiments\\JS\\JS003\\wwwroot\\Scripts\\WebSharper\\WebSharper.Collections.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.Collections.js"
+    },
+    {
+      "Id": "G:\\coldfar_py\\sharftrade7\\Experiments\\JS\\JS003\\wwwroot\\Scripts\\WebSharper\\WebSharper.Collections.min.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.Collections.min.js"
+    },
+    {
+      "Id": "G:\\coldfar_py\\sharftrade7\\Experiments\\JS\\JS003\\wwwroot\\Scripts\\WebSharper\\WebSharper.Control.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.Control.js"
+    },
+    {
+      "Id": "G:\\coldfar_py\\sharftrade7\\Experiments\\JS\\JS003\\wwwroot\\Scripts\\WebSharper\\WebSharper.Control.min.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.Control.min.js"
+    },
+    {
+      "Id": "G:\\coldfar_py\\sharftrade7\\Experiments\\JS\\JS003\\wwwroot\\Scripts\\WebSharper\\WebSharper.Core.JavaScript\\Runtime.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.Core.JavaScript\\Runtime.js"
+    },
+    {
+      "Id": "G:\\coldfar_py\\sharftrade7\\Experiments\\JS\\JS003\\wwwroot\\Scripts\\WebSharper\\WebSharper.Core.JavaScript\\Runtime.min.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.Core.JavaScript\\Runtime.min.js"
+    },
+    {
+      "Id": "G:\\coldfar_py\\sharftrade7\\Experiments\\JS\\JS003\\wwwroot\\Scripts\\WebSharper\\WebSharper.JavaScript\\Cookies.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.JavaScript\\Cookies.js"
+    },
+    {
+      "Id": "G:\\coldfar_py\\sharftrade7\\Experiments\\JS\\JS003\\wwwroot\\Scripts\\WebSharper\\WebSharper.Main.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.Main.js"
+    },
+    {
+      "Id": "G:\\coldfar_py\\sharftrade7\\Experiments\\JS\\JS003\\wwwroot\\Scripts\\WebSharper\\WebSharper.Main.min.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.Main.min.js"
+    },
+    {
+      "Id": "G:\\coldfar_py\\sharftrade7\\Experiments\\JS\\JS003\\wwwroot\\Scripts\\WebSharper\\WebSharper.Main\\AnimFrame.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.Main\\AnimFrame.js"
+    },
+    {
+      "Id": "G:\\coldfar_py\\sharftrade7\\Experiments\\JS\\JS003\\wwwroot\\Scripts\\WebSharper\\WebSharper.Main\\AnimFrame.min.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.Main\\AnimFrame.min.js"
+    },
+    {
+      "Id": "G:\\coldfar_py\\sharftrade7\\Experiments\\JS\\JS003\\wwwroot\\Scripts\\WebSharper\\WebSharper.Main\\Json.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.Main\\Json.js"
+    },
+    {
+      "Id": "G:\\coldfar_py\\sharftrade7\\Experiments\\JS\\JS003\\wwwroot\\Scripts\\WebSharper\\WebSharper.Main\\Json.min.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.Main\\Json.min.js"
+    },
+    {
+      "Id": "G:\\coldfar_py\\sharftrade7\\Experiments\\JS\\JS003\\wwwroot\\Scripts\\WebSharper\\WebSharper.Sitelets.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.Sitelets.js"
+    },
+    {
+      "Id": "G:\\coldfar_py\\sharftrade7\\Experiments\\JS\\JS003\\wwwroot\\Scripts\\WebSharper\\WebSharper.Sitelets.min.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.Sitelets.min.js"
+    },
+    {
+      "Id": "G:\\coldfar_py\\sharftrade7\\Experiments\\JS\\JS003\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI.Templating.Runtime.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI.Templating.Runtime.js"
+    },
+    {
+      "Id": "G:\\coldfar_py\\sharftrade7\\Experiments\\JS\\JS003\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI.Templating.Runtime.min.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI.Templating.Runtime.min.js"
+    },
+    {
+      "Id": "G:\\coldfar_py\\sharftrade7\\Experiments\\JS\\JS003\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI.js"
+    },
+    {
+      "Id": "G:\\coldfar_py\\sharftrade7\\Experiments\\JS\\JS003\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI.min.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI.min.js"
+    },
+    {
+      "Id": "G:\\coldfar_py\\sharftrade7\\Experiments\\JS\\JS003\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\closest.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\closest.js"
+    },
+    {
+      "Id": "G:\\coldfar_py\\sharftrade7\\Experiments\\JS\\JS003\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\h5f.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\h5f.js"
+    },
+    {
+      "Id": "G:\\coldfar_py\\sharftrade7\\Experiments\\JS\\JS003\\wwwroot\\Scripts\\WebSharper\\WebSharper.Web.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.Web.js"
+    },
+    {
+      "Id": "G:\\coldfar_py\\sharftrade7\\Experiments\\JS\\JS003\\wwwroot\\Scripts\\WebSharper\\WebSharper.Web.min.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.Web.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.JS003.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.JS003.props",
+      "PackagePath": "build\\JS003.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.JS003.props",
+      "PackagePath": "buildMultiTargeting\\JS003.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.JS003.props",
+      "PackagePath": "buildTransitive\\JS003.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

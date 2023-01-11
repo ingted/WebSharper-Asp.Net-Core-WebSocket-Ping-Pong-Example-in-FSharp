@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\JS003.props" />
+</Project>
